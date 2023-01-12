@@ -1,9 +1,13 @@
 # Bug-report
 
 
-**Title**: Sale price isn't  included in the cart.
+**Title**: Sale price isn't included in the cart.
+
+**Description**: After adding product in sale price to the cart, product on the cart appears with the regural price. 
 
 **Priority**: High
+
+**Severity**: High
 
 **Bug Type**: Funcional
 
